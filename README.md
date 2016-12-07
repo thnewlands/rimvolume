@@ -7,4 +7,6 @@ The rim is occluded using a texture or noise function to suggest that nothing wa
 
 Example textured materials on Unity primitive spheres.
 
+Another implimentation with procedural noise for making clouds can be found here: https://github.com/thnewlands/rimvolume-clouds
+
 Thomas Newlands - 2016
