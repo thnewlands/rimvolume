@@ -9,7 +9,7 @@ Example textured materials on Unity primitive spheres.
 
 Another implimentation with procedural noise for making clouds can be found here: https://github.com/thnewlands/rimvolume-clouds
 
-Thomas Newlands - 2016
+Holly Newlands - 2016
 
 @thnewlands
 
