@@ -85,7 +85,7 @@
           half rim = 1 - saturate(dot (normalize(IN.viewDir), o.Normal * 1/no));
 		  
 		  //the extra sampling of the rimtexture here helps add a soft layer to our alpha 
-		  o.Alpha = 1 - no * 10 * pow (rim, _RimPower); 
+		  o.Alpha = 1 - saturate(no * 10 * pow (rim, _RimPower)); 
 	  }
       ENDCG
 	  }
