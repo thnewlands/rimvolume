@@ -4,5 +4,5 @@ The rim is occluded using a texture or noise function to suggest that nothing wa
 
 This package is on github at: https://github.com/thnewlands/rimvolume
 
-Thomas Newlands - 2016
+Holly Newlands - 2016
 twitter: @thnewlands
